@@ -1,0 +1,10 @@
+name:Halant
+weight:700
+win_a:960
+win_d:260
+typo_a:960
+typo_d:-260
+hhea_a:960
+hhea_d:-260
+hhea_l:90
+typo_l:90
